@@ -1,0 +1,1 @@
+Checking if the release branch is pushed
